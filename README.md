@@ -1,5 +1,5 @@
 # NRSTech9day
-NRS工作室技术部加入审核9日考核公开题
+NRS工作室技术部加入审核9Day考核公开题
 # 所有题目详细介绍
 1.小明买intel CPU  
 语言要求: C++、Java或Python  
